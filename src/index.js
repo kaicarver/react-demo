@@ -51,9 +51,6 @@ class Game extends React.Component {
           <Board />
         </div>
         <div className="game-info">
-        <p>
-          <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Apéritif%20Art%20Déco&dates=20200227T190000/20200227T210000&details=Apéritif au bar de l'hôtel&location=Hôtel%20Provinces%20Opéra, 36 rue de l'Echiquier, Paris">Aperitif Art Deco</a>
-        </p>
           <div>{/* status */}</div>
           <ol>{/* TODO */}</ol>
         </div>
