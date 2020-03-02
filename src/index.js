@@ -110,8 +110,8 @@ class Game extends React.Component {
           />
           <p className="credits">
             <a href="https://github.com/kaicarver/react-demo">Source on Github</a>
-            {' '}created via{' '}
-            <a href="https://reactjs.org/tutorial/tutorial.html">the React tutorial</a>.
+            {' '}created via the excellent{' '}
+            <a href="https://reactjs.org/tutorial/tutorial.html">React tutorial</a>.
           </p>
         </div>
         <div className="game-info">
