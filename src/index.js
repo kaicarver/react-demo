@@ -99,6 +99,7 @@ class Game extends React.Component {
             squares={current.squares}
             onClick={(i) => this.handleClick(i)}
           />
+          <p class="credits"><a href="https://github.com/kaicarver/react-demo">Source on Github</a></p>
         </div>
         <div className="game-info">
           <div>{status}</div>
